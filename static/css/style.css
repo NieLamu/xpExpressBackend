@@ -68,14 +68,14 @@ img{
 }
 
 .friendlink a:hover, .copyright a:hover {
-    background-color: #56c1a6;
+    background-color: #56c2a4;
     color: white;
 }
 
 
 
 .panel-default>.panel-heading{
-    background-color: #56c1a6;
+    background-color: #56c2a4;
 }
 
 .panel-body{
